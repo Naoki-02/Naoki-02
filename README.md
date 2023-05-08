@@ -1,4 +1,5 @@
-### Hi there 👋
+### 大学3年生です。
+### バックエンドを主にやっています。
 
 <!--
 **Naoki-02/Naoki-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
