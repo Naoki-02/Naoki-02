@@ -2,6 +2,7 @@
 ### バックエンドを主にやっています。
 ### 参加プロジェクト
 https://github.com/Hackathon-kait/mogra
+https://github.com/Hack-U-Nagoya-KAIT/cotabi
 <!--
 **Naoki-02/Naoki-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
