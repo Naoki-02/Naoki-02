@@ -6,9 +6,6 @@ https://github.com/Hackathon-kait/mogra
 
 https://github.com/Hack-U-Nagoya-KAIT/cotabi
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki-02&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
-
 <!--
 **Naoki-02/Naoki-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
