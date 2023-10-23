@@ -1,6 +1,6 @@
 ### 大学3年生です。
 ### バックエンドを主にやっています。
-## 主要言語はPython,java
+## 主要言語はPython,javaです。(Ruby触れようとしてます。)
 ### 参加プロジェクト
 https://github.com/Hackathon-kait/mogra
 
