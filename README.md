@@ -6,6 +6,9 @@ https://github.com/Hackathon-kait/mogra
 
 https://github.com/Hack-U-Nagoya-KAIT/cotabi
 
+#### 優秀賞受賞作品
+https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS
+
 ### 自主制作
 https://github.com/Naoki-02/Audio_Translator
 
